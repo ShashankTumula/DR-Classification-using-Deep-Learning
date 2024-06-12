@@ -1,5 +1,5 @@
 # DR-Classification-using-Deep-Learning
-## Datasetet links
+## Dataset links
 - https://www.tensorflow.org/datasets/catalog/diabetic_retinopathy_detection
 - https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-2019-data/data
 - https://www.kaggle.com/competitions/diabetic-retinopathy-detection/overview
